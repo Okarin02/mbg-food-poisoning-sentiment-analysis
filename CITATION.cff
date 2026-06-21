@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+title: Sentiment Analysis of MBG Food Poisoning Cases Using IndoBERTweet and SVM
+authors:
+  - family-names: Hermanto
+    given-names: Muhammad Lucky
